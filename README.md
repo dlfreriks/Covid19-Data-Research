@@ -12,7 +12,7 @@ BNO News Running Tracker:  [BNO Source](https://docs.google.com/spreadsheets/d/e
 Source for Global Daily Covid Data (Updates daily 4pm EST):
 Our World in Data Feed: [OurWorldinData](https://covid.ourworldindata.org/data/ecdc/full_data.csv)
 
-Source for USA Daily Covid Data (unknown update frequency):
+Source for USA Daily Covid Data (Updates 4pm EST):
 [US State Data](https://docs.google.com/spreadsheets/u/2/d/e/2PACX-1vRwAqp96T9sYYq2-i7Tj0pvTf6XVHjDSMIKBdZHXiCGGdNC0ypEU9NbngS8mxea55JuCFuua1MUeOj5/pubhtml#)
 
 
