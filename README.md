@@ -17,8 +17,11 @@ Our World in Data Feed: [OurWorldinData](https://covid.ourworldindata.org/data/e
 
 ### Dropbox of Transformed TXT outputs from Qlik engine (updates every 10 mins)
 [Dropbox Folder](https://www.dropbox.com/sh/j2xzy9gdduxm203/AADMnF-0RIibcEEB0RFFCE59a?dl=0)
+
 Current Global Data:  [Global Data](https://www.dropbox.com/s/7xhox211duf56t8/covid_data.txt)
+
 Daily Case Data: [Daily Global Data](https://www.dropbox.com/s/c4rv00x47kvp05b/daily_global_data.txt)
+
 Daily USA Case Data: [Daily US Data](https://www.dropbox.com/s/3hjc4n4ymbvk7e3/daily_USA_data.txt)
 
 
