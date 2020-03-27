@@ -29,6 +29,9 @@ Daily USA Case Data: [Daily US Data](https://www.dropbox.com/s/3hjc4n4ymbvk7e3/d
 ### Dropbox of Drive Time Travel Areas surrounding all US hospitals
 [Dropbox Folder](https://www.dropbox.com/sh/6xydckv40q57yin/AADH8Chm_DvSyLwY70KAzOR6a?dl=0)
 
+### Dropbox of Drive Time Travel Areas surrounding all US hospitals based on Definitive Healthcare data on ESRI
+[Dropbox Folder](https://www.dropbox.com/sh/rwyk6di3uvpls7v/AADx4tIzc09JILRoVaTn_G-aa?dl=0)
+
 
 
 
