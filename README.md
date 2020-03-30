@@ -26,6 +26,8 @@ Daily Case Data: [Daily Global Data](https://www.dropbox.com/s/c4rv00x47kvp05b/d
 
 Daily USA Case Data: [Daily US Data](https://www.dropbox.com/s/3hjc4n4ymbvk7e3/daily_USA_data.txt)
 
+Daily US County Case Data: [Daily US County Data](https://www.dropbox.com/s/3hjc4n4ymbvk7e3/USA_county.txt)
+
 ### Dropbox of Drive Time Travel Areas surrounding all US hospitals
 [Dropbox Folder](https://www.dropbox.com/sh/6xydckv40q57yin/AADH8Chm_DvSyLwY70KAzOR6a?dl=0)
 
